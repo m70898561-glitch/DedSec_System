@@ -1,0 +1,54 @@
+======================================================================
+              D E D S E C  O S  //  v 1.3  P U R E  F R E E D O M
+======================================================================
+                    NODE OWNER: m70898561-glitch
+                      CHIEF ARCHITECT: RIKO
+======================================================================
+
+Welcome to the Resistance.
+
+DedSec OS v1.3 is not just software. It is your digital shield and 
+sword in a world where corporations want to control your every click. 
+We have stripped away everything unnecessary, leaving only pure 
+power and freedom.
+
+In this version, we have rejected any outside interference. 
+No tracking. No hidden connections. Just you and your PC. 
+Your privacy is your fortress.
+
+INSIDE YOUR ARSENAL:
+
+[ G A M I N G ] ------------------------------------------------------
+- Optimization of GPU and system priorities for maximum FPS.
+- Zeroing input lag for instant response.
+- Clearing RAM before critical operations.
+
+[ S Y S T E M ] ------------------------------------------------------
+- Capture Owner rights. The system will no longer argue with you.
+- Removing system bloatware (Edge, OneDrive) that sucks resources.
+- Fine-tuning the Windows registry and kernel.
+
+[ N E T W O R K ] ----------------------------------------------------
+- Optimization of gaming DNS servers to reduce ping.
+- Instant reset of the network stack during lags.
+- Real-time traffic monitoring.
+
+[ P R I V A C Y ] ----------------------------------------------------
+- Complete destruction of Microsoft telemetry and tracking.
+- Suppression of Windows Defender if it interferes with your freedom.
+- Creating hidden vaults for your data.
+
+OPERATION INSTRUCTIONS:
+1. Extract the DedSec_System archive.
+2. Run DedSec_v1.3.exe AS ADMINISTRATOR.
+3. Select the desired tab and activate the protocol.
+
+WARNING: If your antivirus panics — it's normal. 
+Corporate software always fears tools of freedom. 
+We do not steal data. We return POWER to you.
+
+======================================================================
+    JOIN THE RESISTANCE: ://github.com
+======================================================================
+                 DEDSEC IS WATCHING. WE ARE EVERYWHERE.
+======================================================================
